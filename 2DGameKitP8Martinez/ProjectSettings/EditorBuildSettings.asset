@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/NewScene.unity
     guid: e7edc966538ab524c827791c0bb3fe4c
+  - enabled: 1
+    path: Assets/scene2.unity
+    guid: 713b52f85630a3d4b99fc95891fe374b
   m_configObjects: {}
